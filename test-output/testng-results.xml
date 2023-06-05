@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-19T14:15:19 IST" name="Default suite" finished-at="2023-01-19T14:15:51 IST" duration-ms="31672">
+    <groups>
+    </groups>
+    <test started-at="2023-01-19T14:15:19 IST" name="Default test" finished-at="2023-01-19T14:15:51 IST" duration-ms="31672">
+      <class name="TestCases.testCases">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:TestCases.testCases@3b96c42e]" started-at="2023-01-19T14:15:19 IST" name="invokeBrowser" finished-at="2023-01-19T14:15:40 IST" duration-ms="21324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="homepage()[pri:1, instance:TestCases.testCases@3b96c42e]" started-at="2023-01-19T14:15:41 IST" name="homepage" finished-at="2023-01-19T14:15:45 IST" duration-ms="4439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method signature="firstLetterApps()[pri:2, instance:TestCases.testCases@3b96c42e]" started-at="2023-01-19T14:15:45 IST" name="firstLetterApps" finished-at="2023-01-19T14:15:45 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstLetterApps -->
+        <test-method signature="lastLetterApps()[pri:3, instance:TestCases.testCases@3b96c42e]" started-at="2023-01-19T14:15:45 IST" name="lastLetterApps" finished-at="2023-01-19T14:15:48 IST" duration-ms="2351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastLetterApps -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.testCases@3b96c42e]" started-at="2023-01-19T14:15:48 IST" name="closeBrowser" finished-at="2023-01-19T14:15:51 IST" duration-ms="3212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.testCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
